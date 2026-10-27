@@ -37,6 +37,6 @@ More are on the way.
 
 ## Follow along
 
-Built by [Dineth Hettiarachchi](https://github.com/deaneeth) · [deaneeth.com](https://deaneeth.com)
+Built by [Dineth Hettiarachchi](https://github.com/deaneeth) · [deaneeth.dev](https://deaneeth.dev)
 
 Explore all five projects and try simplified interactive explanations at [tinycomputers.vercel.app](https://tinycomputers.vercel.app). Star a project to follow its progress.
