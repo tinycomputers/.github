@@ -20,11 +20,11 @@ Real computers are enormous. The ideas inside them are not.
 
 | Project | What it shows | Links |
 |---|---|---|
-| [**tiny-gpu**](https://github.com/tinycomputers/tiny-gpu) | How parallel threads, registers, memory and instructions work on a GPU, in a Python simulator | [Live demo](https://tinycomputers.github.io/tiny-gpu/) |
-| [**tiny-tpu**](https://github.com/tinycomputers/tiny-tpu) | A real SystemVerilog systolic array, compiled to WASM and visualized live in the browser | [Live demo](https://tiny-tpu.vercel.app) |
-| **tiny-cpu** | A minimal CPU, from instruction set to execution | *In progress* |
-| **tiny-compiler** | Source code to executable instructions, end to end | *In progress* |
-| **tiny-attention** | The attention mechanism behind modern AI models, from first principles | *In progress* |
+| [**tiny-gpu**](https://github.com/tinycomputers/tiny-gpu) | Explore parallel threads, registers and memory in a Python GPU simulator | [Demo](https://tinycomputers.github.io/tiny-gpu/) |
+| [**tiny-tpu**](https://github.com/tinycomputers/tiny-tpu) | Watch a 4×4 SystemVerilog systolic array run in the browser | [Visualizer](https://tiny-tpu.vercel.app/app) |
+| [**tiny-cpu**](https://github.com/tinycomputers/tiny-cpu) | Step through a RISC-V CPU and its five-stage pipeline | [Visualizer](https://tiny-cpu.vercel.app/app) |
+| [**tiny-attention**](https://github.com/tinycomputers/tiny-attention) | Explore a FlashAttention engine and its online softmax schedule | [Visualizer](https://tiny-attention.vercel.app/app) |
+| [**tiny-compiler**](https://github.com/tinycomputers/tiny-compiler) | Compile a tensor program for the GPU simulator and TPU | [Compiler explorer](https://tiny-compiler.vercel.app/app) |
 
 More are on the way.
 
@@ -39,4 +39,4 @@ More are on the way.
 
 Built by [Dineth Hettiarachchi](https://github.com/deaneeth) · [deaneeth.com](https://deaneeth.com)
 
-Star a project to follow its progress.
+Explore all five projects and try simplified interactive explanations at [tinycomputers.vercel.app](https://tinycomputers.vercel.app). Star a project to follow its progress.
